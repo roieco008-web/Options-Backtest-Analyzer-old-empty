@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "skills": {
+    "backtesting-frameworks": {
+      "source": "wshobson/agents",
+      "commit": "91ff75307f5668916f3eb77d5ba556266c961376",
+      "sourceType": "github",
+      "skillPath": "plugins/quantitative-trading/skills/backtesting-frameworks/SKILL.md",
+      "computedHash": "06911073e6cb32003d4057134ab32548e7efd59d87e878c9f7f8915ca06ac260"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "commit": "57217cf86ba38148a57af9e90d14a4c049558330",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "option-vol-analysis": {
+      "source": "anthropics/financial-services",
+      "commit": "3e32c2287dcb637c184c01cc0ad82d6af7e9bb0f",
+      "sourceType": "github",
+      "skillPath": "plugins/partner-built/lseg/skills/option-vol-analysis/SKILL.md",
+      "computedHash": "a43c54701db830185c4a63f1b4a5f6e4356670bc16296a29710007dea4219a71"
+    }
+  }
+}
